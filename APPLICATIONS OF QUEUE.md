@@ -1,6 +1,5 @@
 # Exp.No:40  
 ## APPLICATIONS OF QUEUE
-
 ---
 
 ### AIM  
