@@ -22,7 +22,6 @@ To write a Python program with a function to insert integer values into a Circul
 ---
 
 ### PROGRAM
-
 ```
 class Queue:
     def __init__(self,limit):
