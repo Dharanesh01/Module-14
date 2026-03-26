@@ -7,7 +7,6 @@
 To write a Python program to insert elements at REAR END of deque using a collection built-in function.
 
 ---
-
 ### ALGORITHM  
 
 1. Import the `deque` class from the `collections` module.  
